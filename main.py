@@ -29,4 +29,4 @@ if user_input:
     else:
         st.error("Failed to generate QR Code. Please try again.")
 
-st.markdown("Built with ❤️ by [Pratik Kale](https://pratikkale.in) | [Source Code](https://github.com/pratikkalein/deploy-tf-cloud-run)")
+st.markdown("Built with ❤️ by [Pratik Kale](https://pratikkale.in) | [Source Code](https://github.com/pratikkalein/cloud-function-demo)")
